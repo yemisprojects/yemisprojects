@@ -4,11 +4,11 @@ Welcome to my Github Profile!
 
 
 ### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0" alt="Recent Article 0"> 
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/1" alt="Recent Article 1"> 
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yemiodunade/2" alt="Recent Article 2"> 
 
-<h3 align="left">Connect with me:</h3>
+### 📮 Get In Touch!
 <p align="left">
 <a href="www.linkedin.com/in/yemiodunade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yemisi odunade" height="30" width="40" /></a>
 </p>
